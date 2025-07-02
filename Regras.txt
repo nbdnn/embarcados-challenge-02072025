@@ -1,0 +1,8 @@
+O motor de um carro não pode ter RPM (rotações por minuto) negativo, pois o conceito de RPM está diretamente relacionado à rotação do virabrequim, que por sua vez é impulsionado pela queima de combustível e pelo movimento do veículo. 
+O RPM negativo indicaria uma rotação reversa, o que não ocorre no funcionamento normal de um motor de carro.
+Além disso, o motor só pode ser ligado quando o veículo estiver desligado, e deve desligar apenas quando o motor já estiver ligado. Isso garante que o funcionamento do carro siga uma sequência lógica de operação, sem danos ao sistema.
+O limite de RPM de um carro é determinado pela capacidade do motor e pela resistência das peças internas.
+Para a grande maioria dos motores, esse limite máximo é de 10.000 RPM. Superar essa marca pode resultar em danos severos ao motor, devido ao desgaste excessivo das peças móveis e ao risco de falhas catastróficas.
+Por fim, após desligar o motor, o veículo deve realizar uma análise do período em que esteve ligado, registrando e listando todas as mudanças de velocidade ocorridas enquanto o motor estava em funcionamento.
+Isso é importante para o diagnóstico do desempenho do carro, bem como para a identificação de possíveis falhas ou necessidade de manutenção. 
+A lista de mudanças de velocidade ajuda os técnicos a entender o comportamento do veículo e fazer ajustes para otimizar seu desempenho e prolongar sua vida útil.
